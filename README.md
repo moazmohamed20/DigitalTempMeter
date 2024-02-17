@@ -4,7 +4,11 @@ A digital temperature meter system using ATMega328 microcontroller to read the t
 
 ## Schematic
 
-![ATMega328P - Pins](./Images/Schematic.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/moazmohamed20/DigitalTempMeter/assets/48488390/35eecaf4-2a51-4e57-977b-bae18890590f">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/moazmohamed20/DigitalTempMeter/assets/48488390/c00f9c3a-1939-4ed8-8e25-9ce710787c8a">
+  <img alt="Schematic-Diagram" src="https://github.com/moazmohamed20/DigitalTempMeter/assets/48488390/35eecaf4-2a51-4e57-977b-bae18890590f" title="Schematic-Diagram">
+</picture>
 
 ### Components
 
